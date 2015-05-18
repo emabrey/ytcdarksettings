@@ -1,0 +1,38 @@
+@-moz-document regexp("https?://(www.)?youtube.com/(.*)") {
+ 
+/* Lights Out & Youtube Center Compatibility Fix*/
+  
+/* Youtube - Lights Out - A Dark Youtube Theme is by Draxx7 and is available here https://userstyles.org/styles/92164/youtube-lights-out-a-dark-youtube-theme */
+/* Youtube Center is by Jeppe Rune Mortensen and is available here https://github.com/YePpHa/YouTubeCenter/wiki */
+ 
+  /* Main Rules*/
+.ytcenter-dialog-base .ytcenter-dialog-header h2, .ytcenter-settings-subcat-header-wrapper, .ltr .ytcenter-settings-panel-left, .ytcenter-settings-subcat-content-wrapper, .ytcenter-settings-subcat-header, .ytcenter-dialog-base .ytcenter-dialog-header, .yt-horizontal-rule, .ytcenter-settings-content, .ytcenter-settings-option-label, #masthead-user-button {
+   background-color: #1b1b1b !important;
+   border: 0px !important;
+   color: #9C9C9C !important;;
+   border-bottom: 0px !important;
+}
+  /* Foreground Box Rules*/
+.ytcenter-dialog-fg{
+  border: 1px solid #888 !important;  
+}
+ 
+  /* Background Screen Filter*/
+.ytcenter-dialog-bg{
+  background-color: #888 !important;
+}
+ 
+  /*Sublists on top*/
+.ytcenter-settings-subcat-header-item, .ytcenter-settings-subcat-header-item.ytcenter-selected{
+   color: #9C9C8C !important;
+   text-shadow: none !important;
+}
+ 
+  /*Main list on left*/
+.ytcenter-settings-category-list .ytcenter-settings-category-item.ytcenter-selected {
+   color: #9C9C8C !important;
+   background-color: #1b1b1b !important;
+   text-shadow: none !important;
+}
+
+}
