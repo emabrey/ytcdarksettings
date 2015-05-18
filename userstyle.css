@@ -1,6 +1,7 @@
-@-moz-document regexp("https?://(www.)?youtube.com/(.*)") {
+@-moz-document domain(youtube.com) {
  
 /* Lights Out & Youtube Center Compatibility Fix*/
+/* Please contribute changes, requests or bugs via https://github.com/emabrey/ytcdarksettings*/
   
 /* Youtube - Lights Out - A Dark Youtube Theme is by Draxx7 and is available here https://userstyles.org/styles/92164/youtube-lights-out-a-dark-youtube-theme */
 /* Youtube Center is by Jeppe Rune Mortensen and is available here https://github.com/YePpHa/YouTubeCenter/wiki */
