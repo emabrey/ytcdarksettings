@@ -1,4 +1,4 @@
-#Lights Out & Youtube Center Compatibility Fix [![License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+# Lights Out & Youtube Center Compatibility Fix [![License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 This project contains the CSS and related files for the [*Lights Out & Youtube Center Compatibility Fix* userstyle][1] which are licensed via the [Creative Commons  Attribution-NonCommercial-ShareAlike 4.0 International](license.md) license. You can find this and other userstyles at [userstyles.org][2], which also contains instructions for how to configure your browser to use the *Stylish* extension (Browser Specific Installation: [[Mozilla Firefox]][3] [[Google Chrome]][4]).
 
